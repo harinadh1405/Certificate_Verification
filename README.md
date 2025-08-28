@@ -1,4 +1,4 @@
-# BlockChain-Based Document Verification with IPFS
+# Certificate Verification Using BlockChain
 
 This project aims to create a secure and decentralized system for document verification using Blockchain and InterPlanetary File System (IPFS) technologies. The system stores the hash of the documents in the Blockchain network and the documents themselves in the IPFS network. This ensures that the documents cannot be tampered with or altered, and they can be easily retrieved and verified by authorized parties.
 
